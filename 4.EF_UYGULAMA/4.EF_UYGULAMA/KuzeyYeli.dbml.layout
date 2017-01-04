@@ -1,0 +1,175 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 14.5, 20.375" name="KuzeyYeli">
+  <DataContextMoniker Name="/KuzeyYeliDataContext" />
+  <nestedChildShapes>
+    <classShape Id="2fac9a00-88a2-452a-b4a0-623a6121305e" absoluteBounds="6.75, 7.5, 2, 1.1939925130208344">
+      <DataClassMoniker Name="/KuzeyYeliDataContext/Bolge" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c721229b-e0e3-4637-aa4b-7009147b98ff" absoluteBounds="6.765, 7.96, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="558fa9dc-28b8-476a-89dd-81ccfb994cd0" absoluteBounds="9.5, 7.375, 2, 1.3862939453124987">
+      <DataClassMoniker Name="/KuzeyYeliDataContext/Bolgeler" />
+      <nestedChildShapes>
+        <elementListCompartment Id="01e8b20b-347b-4cf7-af0e-624b6e98aad5" absoluteBounds="9.515, 7.835, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="db56bc5e-e7d1-4c08-b173-c401e38bb79c" absoluteBounds="3.75, 14.625, 2, 1.5785953776041684">
+      <DataClassMoniker Name="/KuzeyYeliDataContext/Kategoriler" />
+      <nestedChildShapes>
+        <elementListCompartment Id="a6c08e81-41ba-407a-aa7e-25c3fb21328f" absoluteBounds="3.765, 15.085, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="b620dfff-bb98-43a3-a6ba-55ef80f2aa64" absoluteBounds="0.75, 0.75, 2, 1.1939925130208335">
+      <DataClassMoniker Name="/KuzeyYeliDataContext/MusteriDemographic" />
+      <nestedChildShapes>
+        <elementListCompartment Id="174e3b93-b597-43b2-bbe8-49dd946b5cec" absoluteBounds="0.765, 1.21, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="252d7bab-3566-4cc4-865c-062b2e286de9" absoluteBounds="3.5, 3.75, 2, 1.1939925130208327">
+      <DataClassMoniker Name="/KuzeyYeliDataContext/MusteriMusteriDemo" />
+      <nestedChildShapes>
+        <elementListCompartment Id="3bc9df7f-4296-4364-9e88-f8fb1048d25a" absoluteBounds="3.515, 4.21, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="9fc6d6fa-fd19-497b-bd87-919f74470dcc" absoluteBounds="0.75, 2.875, 2, 2.9247054036458322">
+      <DataClassMoniker Name="/KuzeyYeliDataContext/Musteriler" />
+      <nestedChildShapes>
+        <elementListCompartment Id="a76210dc-fb23-43be-9ed1-407029f04e63" absoluteBounds="0.765, 3.335, 1.9700000000000002, 2.364705403645833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="81373ff5-d440-4510-ad39-5047312b76ea" absoluteBounds="3.75, 6.5, 2, 1.3862939453125005">
+      <DataClassMoniker Name="/KuzeyYeliDataContext/Nakliyeciler" />
+      <nestedChildShapes>
+        <elementListCompartment Id="d5018c83-bad2-48e7-871d-dbe751efb233" absoluteBounds="3.765, 6.96, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="74110470-0909-453c-8db9-75317f39fb21" absoluteBounds="12.25, 9.5, 2, 1.1939925130208344">
+      <DataClassMoniker Name="/KuzeyYeliDataContext/PersonelBolgeler" />
+      <nestedChildShapes>
+        <elementListCompartment Id="2c426744-153d-449d-9174-6e698ba877ae" absoluteBounds="12.265, 9.96, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="cb315ad6-1fed-4a8b-a679-c3362b457342" absoluteBounds="3.75, 8.625, 2, 4.2708154296874987">
+      <DataClassMoniker Name="/KuzeyYeliDataContext/Personeller" />
+      <nestedChildShapes>
+        <elementListCompartment Id="3b3de421-626a-4952-87da-3236e1571659" absoluteBounds="3.765, 9.085, 1.9700000000000002, 3.7108154296875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="0fd1ae6d-60fc-43bf-b6eb-6822f15094d3" absoluteBounds="9.25, 3.5, 2, 1.7708968098958322">
+      <DataClassMoniker Name="/KuzeyYeliDataContext/SatisDetay" />
+      <nestedChildShapes>
+        <elementListCompartment Id="af686573-d94c-4ab6-9fbf-449683bb66e5" absoluteBounds="9.265, 3.96, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="140fa950-5592-405a-8b8b-7617e758dc5e" absoluteBounds="6.5, 2.625, 2, 3.5016097005208322">
+      <DataClassMoniker Name="/KuzeyYeliDataContext/Satislar" />
+      <nestedChildShapes>
+        <elementListCompartment Id="fe3a75bf-3f09-401f-849b-e14d9548bbd4" absoluteBounds="6.515, 3.085, 1.9700000000000002, 2.941609700520833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="ebb70e44-eb1d-4206-bd8f-f7f84c0f6dc8" absoluteBounds="3.75, 17, 2, 3.1170068359375023">
+      <DataClassMoniker Name="/KuzeyYeliDataContext/Tedarikciler" />
+      <nestedChildShapes>
+        <elementListCompartment Id="836642d2-145f-4f9f-bb91-82e2d7c9d6e3" absoluteBounds="3.765, 17.46, 1.9700000000000002, 2.5570068359375" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="edec7351-b139-4658-8304-39a407257a9e" absoluteBounds="6.5, 16, 2, 2.7324039713541683">
+      <DataClassMoniker Name="/KuzeyYeliDataContext/Urunler" />
+      <nestedChildShapes>
+        <elementListCompartment Id="316b7c2c-ac73-4a2c-8849-34f1dbbf6c35" absoluteBounds="6.515, 16.46, 1.9700000000000002, 2.1724039713541665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(8.75 : 8.09699625651042); (9.26041666666667 : 8.09699625651042 : JumpStart); (9.42708333333333 : 8.09699625651042 : JumpEnd); (9.5 : 8.09699625651042)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/KuzeyYeliDataContext/Bolge/Bolge_Bolgeler" />
+      <nodes>
+        <classShapeMoniker Id="2fac9a00-88a2-452a-b4a0-623a6121305e" />
+        <classShapeMoniker Id="558fa9dc-28b8-476a-89dd-81ccfb994cd0" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 1.34699625651042); (4.5 : 1.34699625651042); (4.5 : 3.75)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/KuzeyYeliDataContext/MusteriDemographic/MusteriDemographic_MusteriMusteriDemo" />
+      <nodes>
+        <classShapeMoniker Id="b620dfff-bb98-43a3-a6ba-55ef80f2aa64" />
+        <classShapeMoniker Id="252d7bab-3566-4cc4-865c-062b2e286de9" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 4.34699625651042); (3.5 : 4.34699625651042)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/KuzeyYeliDataContext/Musteriler/Musteriler_MusteriMusteriDemo" />
+      <nodes>
+        <classShapeMoniker Id="9fc6d6fa-fd19-497b-bd87-919f74470dcc" />
+        <classShapeMoniker Id="252d7bab-3566-4cc4-865c-062b2e286de9" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(11.5 : 8.06814697265625); (13.25 : 8.06814697265625); (13.25 : 9.5)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/KuzeyYeliDataContext/Bolgeler/Bolgeler_PersonelBolgeler" />
+      <nodes>
+        <classShapeMoniker Id="558fa9dc-28b8-476a-89dd-81ccfb994cd0" />
+        <classShapeMoniker Id="74110470-0909-453c-8db9-75317f39fb21" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.75 : 10.0969962565104); (6.47916416666667 : 10.0969962565104 : JumpStart); (6.64583083333333 : 10.0969962565104 : JumpEnd); (9.26041666666667 : 10.0969962565104 : JumpStart); (9.42708333333333 : 10.0969962565104 : JumpEnd); (12.25 : 10.0969962565104)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/KuzeyYeliDataContext/Personeller/Personeller_PersonelBolgeler" />
+      <nodes>
+        <classShapeMoniker Id="cb315ad6-1fed-4a8b-a679-c3362b457342" />
+        <classShapeMoniker Id="74110470-0909-453c-8db9-75317f39fb21" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(4.45923076923077 : 12.8958154296875); (4.45923076923077 : 13.1458154296875); (5.05461538461539 : 13.1458154296875); (5.05461538461539 : 12.8958154296875)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/KuzeyYeliDataContext/Personeller/Personeller_Personeller" />
+      <nodes>
+        <classShapeMoniker Id="cb315ad6-1fed-4a8b-a679-c3362b457342" />
+        <classShapeMoniker Id="cb315ad6-1fed-4a8b-a679-c3362b457342" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.5 : 4.38544840494792); (9.25 : 4.38544840494792)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/KuzeyYeliDataContext/Satislar/Satislar_SatisDetay" />
+      <nodes>
+        <classShapeMoniker Id="140fa950-5592-405a-8b8b-7617e758dc5e" />
+        <classShapeMoniker Id="0fd1ae6d-60fc-43bf-b6eb-6822f15094d3" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 3.28125); (4.41666666666667 : 3.28125 : JumpStart); (4.58333333333333 : 3.28125 : JumpEnd); (6.5 : 3.28125)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/KuzeyYeliDataContext/Musteriler/Musteriler_Satislar" />
+      <nodes>
+        <classShapeMoniker Id="9fc6d6fa-fd19-497b-bd87-919f74470dcc" />
+        <classShapeMoniker Id="140fa950-5592-405a-8b8b-7617e758dc5e" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.75 : 6.96875); (6.59375 : 6.96875); (6.59375 : 6.12660970052083)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/KuzeyYeliDataContext/Nakliyeciler/Nakliyeciler_Satislar" />
+      <nodes>
+        <classShapeMoniker Id="81373ff5-d440-4510-ad39-5047312b76ea" />
+        <classShapeMoniker Id="140fa950-5592-405a-8b8b-7617e758dc5e" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.75 : 11.527658343099); (6.5624975 : 11.527658343099); (6.5624975 : 6.12660970052083)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/KuzeyYeliDataContext/Personeller/Personeller_Satislar" />
+      <nodes>
+        <classShapeMoniker Id="cb315ad6-1fed-4a8b-a679-c3362b457342" />
+        <classShapeMoniker Id="140fa950-5592-405a-8b8b-7617e758dc5e" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.5 : 17.3662019856771); (9.34375 : 17.3662019856771); (9.34375 : 5.27089680989583)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/KuzeyYeliDataContext/Urunler/Urunler_SatisDetay" />
+      <nodes>
+        <classShapeMoniker Id="edec7351-b139-4658-8304-39a407257a9e" />
+        <classShapeMoniker Id="0fd1ae6d-60fc-43bf-b6eb-6822f15094d3" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.75 : 15.3124995); (7.5 : 15.3124995); (7.5 : 16)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/KuzeyYeliDataContext/Kategoriler/Kategoriler_Urunler" />
+      <nodes>
+        <classShapeMoniker Id="db56bc5e-e7d1-4c08-b173-c401e38bb79c" />
+        <classShapeMoniker Id="edec7351-b139-4658-8304-39a407257a9e" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.75 : 17.8662019856771); (6.5 : 17.8662019856771)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/KuzeyYeliDataContext/Tedarikciler/Tedarikciler_Urunler" />
+      <nodes>
+        <classShapeMoniker Id="ebb70e44-eb1d-4206-bd8f-f7f84c0f6dc8" />
+        <classShapeMoniker Id="edec7351-b139-4658-8304-39a407257a9e" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
